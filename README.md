@@ -1,8 +1,10 @@
-## Hi, I am Evan Tao ##
+## Hi, I'm Evan Tao ##
 
-Data integrations lead at Timely, the end-to-end school scheduling solution. Previously, a technical support engineer at Pinecone and a high school computer science teacher with the New York City Department of Education.
+Integrations engineer at [Hebbia](https://www.hebbia.com/), the leading AI platform for finance. 
+
+Previously leading data integrations at [Timely Schools](https://www.timelyschools.com/), technical support at [Pinecone](https://pinecone.io/), and teaching high school computer science with the NYC DOE.
 
 ## Get In Touch ##
 
-- Connect with me at [linkedin.com/in/evan-tao](https://linkedin.com/in/evantao96/ "Named link title")
+- [LinkedIn](https://linkedin.com/in/evantao96/)
 
